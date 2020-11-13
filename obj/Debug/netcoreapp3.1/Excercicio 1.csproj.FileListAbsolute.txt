@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.exe
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.deps.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\bin\Debug\netcoreapp3.1\Excercicio 1.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio 1\obj\Debug\netcoreapp3.1\Excercicio 1.genruntimeconfig.cache
